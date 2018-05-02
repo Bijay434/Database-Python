@@ -1,0 +1,9 @@
+
+UI was designed using PyQt4 ,install it using pip.
+For database install xampp server and create new database named 'dbpython'
+create table called 'logindetails' and create username,password and email in the table as attributes.
+To insert new entries execute database.py
+Run login.py to excecute login page.
+
+
+Screenshots of the application are in project itself.
